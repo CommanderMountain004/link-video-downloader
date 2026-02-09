@@ -2,7 +2,6 @@
 
 # 🎬 Video Downloader
 
-
 **Video Downloader** is a simple and lightweight tool for downloading videos from popular video hosting and social media platforms using direct links.
 
 The application allows users to save videos locally in the best available quality (depending on the source).  
