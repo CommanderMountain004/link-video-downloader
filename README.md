@@ -1,3 +1,5 @@
+<img width="1920" height="547" alt="image" src="https://github.com/user-attachments/assets/4ca989e3-9d51-40d2-8581-45dd881e9299" />
+
 # 🎬 Video Downloader
 
 **Video Downloader** is a simple and lightweight tool for downloading videos from popular video hosting and social media platforms using direct links.
@@ -49,8 +51,3 @@ The program supports downloading videos from the following platforms:
 - Cross-platform support (depending on implementation)
 
 ---
-
-## ⚠️ Disclaimer
-
-This project is intended for **educational and personal use only**.  
-Users are responsible for complying with the terms of service and copyright laws of the respective platforms.
