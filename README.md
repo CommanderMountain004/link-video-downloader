@@ -1,4 +1,4 @@
-<img width="600" height="266" alt="transparent-Photoroom" src="https://github.com/user-attachments/assets/0218813e-817c-4744-9544-7fa949f48c5f" />
+<img width="600" height="126" alt="transparent-Photoroom" src="https://github.com/user-attachments/assets/0218813e-817c-4744-9544-7fa949f48c5f" />
 
 # 🎬 Video Downloader
 
