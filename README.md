@@ -40,7 +40,6 @@ The program supports downloading videos from the following platforms:
 ### Other Platforms
 - Any platform that provides publicly accessible video URLs
 
----
 
 ## ✨ Features
 
