@@ -45,4 +45,3 @@ The program supports downloading videos from the following platforms:
 
 - Download videos using a single URL
 - Automatic quality detection
-- Fast and lightweight
